@@ -3,6 +3,9 @@
 **`Engenheiro de Software`**
 **`Desenvolvovedor FullStack`**
 **`React JS`**
+**`TypeScript`**
+**`TanStack Query & Router`**
+**`Git & GitHub`**
 
 Me chamo Gustavo Lieb FIgueira, tenho 19 anos e sou natural de Jundiai. Estudante de Engenharia de Software na Puc Campinas, organizado e proativo, interessado em projetos da área. Focado na construção de aplicações web modernas e escaláveis. Tenho experiência com React, TypeScript, Tailwind CSS, Node.js, Express e banco de dados(MongoDb, PostgreSQL, MySQL, NeonDB).
 
@@ -15,6 +18,9 @@ Estou sempre aprendendo novas tecnologias e construindo projetos para aprimorar 
          <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
         <a href="https://www.linkedin.com/in/gustavo-lieb-figueira/">
          <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+           <a href="https://gustavolieb.com">
+            <img alt="Portfólio" title="Portfólio" src="https://img.shields.io/badge/Portfólio-%231E90FF?style=for-the-badge&logo=Google-      Chrome&logoColor=white"/>
+  </a>
 
    </p>
 
