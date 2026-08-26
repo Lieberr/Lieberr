@@ -9,7 +9,7 @@
 
 Me chamo Gustavo Lieb FIgueira, tenho 19 anos e sou natural de Jundiai. Estudante de Engenharia de Software na Puc Campinas, organizado e proativo, interessado em projetos da área. Focado na construção de aplicações web modernas e escaláveis. Tenho experiência com React, TypeScript, Tailwind CSS, Node.js, Express e banco de dados(MongoDb, PostgreSQL, MySQL, NeonDB).
 
-Desenvolvo aplicações seguras e eficientes, aplicando autenticação JWT, gerenciamento de estado com TanStack Query & Router, e consumo de APIs REST. Tenho experiência com versionamento de código (Git & Github), testes de API com Postman, CI/CD e deploy de projetos com Vercel e Render, alem de buil e configuração de projetos Typescript.
+Desenvolvo aplicações seguras e eficientes, aplicando autenticação JWT, gerenciamento de estado com TanStack Query & Router, e consumo de APIs REST. Tenho experiência com versionamento de código (Git & Github), testes de API com Postman, CI/CD e deploy de projetos com Vercel e Render, alem de build e configuração de projetos Typescript.
 
 Estou sempre aprendendo novas tecnologias e construindo projetos para aprimorar minhas habilidades e entregar soluções de qualidade.
 
